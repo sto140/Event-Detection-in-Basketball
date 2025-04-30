@@ -1,0 +1,12 @@
+path: C:\Users\tolu1\Basketball Object Detection.v9i.yolov8 #dataset root directory
+train: train/images
+
+
+val: valid/images #valid images
+
+
+#clases
+names:
+  0: basketball
+  1: madebasket
+  2: person
